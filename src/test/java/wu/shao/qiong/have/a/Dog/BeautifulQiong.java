@@ -10,6 +10,7 @@ public class BeautifulQiong {
 	  String email = dog.generate();
 	  Assert.assertNotNull(email);
       Assert.assertEquals(email, "dog@qiong.com");
+      
 	  
 	  
   }
