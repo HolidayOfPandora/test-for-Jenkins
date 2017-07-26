@@ -5,5 +5,4 @@ public class DogOfQiong {
 	        return "dog@qiong.com";
 	    }
 
-	 
 }
